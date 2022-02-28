@@ -29,4 +29,4 @@ def removeVowel(string_):
         if letter in string_:
             string_ = string_.replace(letter,"")
             
-    return 
+    return string_
