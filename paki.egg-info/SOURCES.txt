@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+paki/__init__.py
+paki/decorators.py
+paki/functions.py
+paki.egg-info/PKG-INFO
+paki.egg-info/SOURCES.txt
+paki.egg-info/dependency_links.txt
+paki.egg-info/requires.txt
+paki.egg-info/top_level.txt
