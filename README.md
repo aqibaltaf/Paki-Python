@@ -1,1 +1,1 @@
-# Whale
+# Paki - A Python Package
